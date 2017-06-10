@@ -5,9 +5,13 @@ os：信息安全作业
 ## 实现算法
 
 1. Caesar
+![img](img/caesar.png)
 2. Playfair
+![img](img/playfair.png)
 3. Hill
+![img](img/hill.png)
 4. RSA
+![img](img/rsa.png)
 
 ## 说明
 
